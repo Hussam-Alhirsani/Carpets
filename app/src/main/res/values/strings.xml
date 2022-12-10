@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Carpets</string>
+
+
+    <!-- here we write the data source -->
+
+    <string name= "detailsProduct1">Carpet made in the KSA\nsize 2 * 3 </string>
+    <string name= "detailsProduct2">Carpet made in the Egypt\nsize 150 * 220 </string>
+    <string name= "detailsProduct3">Carpet made in the KSA\nsize 2 * 3 </string>
+    <string name= "detailsProduct4">Carpet made in the Jordan\nsize 2.5 * 3.5 </string>
+    <string name= "detailsProduct5">Carpet made in the Turkey\nsize 120 * 170 </string>
+    <string name= "detailsProduct6">Carpet made in the ksa\nsize 3 * 4 </string>
+    <string name= "detailsProduct7">Carpet made in the Jordan\nsize 2 * 3 </string>
+    <string name= "detailsProduct8">Carpet made in the Egypt\nsize 2.5 * 3.5 </string>
+
+    <string name= "price1">840 SAR</string>
+    <string name= "price2">560 SAR</string>
+    <string name= "price3">800 SAR</string>
+    <string name= "price4">1100 SAR</string>
+    <string name= "price5">320 SAR</string>
+    <string name= "price6">1250 SAR</string>
+    <string name= "price7">780 SAR</string>
+    <string name= "price8">890 SAR</string>
+
+
+</resources>
